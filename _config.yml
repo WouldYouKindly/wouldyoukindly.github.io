@@ -1,0 +1,14 @@
+title: WouldYouKindly
+description: Personal website
+baseurl: ""
+url: "https://wouldyoukindly.github.io"
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /blog/:year/:month/:day/:title/
