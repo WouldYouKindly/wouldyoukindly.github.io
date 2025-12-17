@@ -8,106 +8,106 @@ permalink: /wishlist/
 
 ## Books
 
-- [Theory of Literature (The Open Yale Courses Series)](https://www.amazon.co.uk/dp/B007R5DS4G/)
-- [Ideas Have Consequences: Expanded Edition](https://www.amazon.co.uk/dp/B00FHTY1V8/)
-- [Gaza: Past. Present. Future.](https://www.amazon.co.uk/dp/B07ZWBK8GH/)
-- [War Is a Racket (Warbler Classics Annotated Edition)](https://www.amazon.co.uk/dp/1965684165/)
-- [Postmodernism: or, the Cultural Logic of Late Capitalism](https://www.amazon.co.uk/dp/0860915379/)
-- [No Bad Parts: The Bestselling Guide to Healing Trauma & Restoring Wholeness with the Internal Family Systems Model](https://www.amazon.co.uk/dp/1785045113/)
-- [Object-Oriented Ontology: A New Theory of Everything (Pelican Books)](https://www.amazon.co.uk/dp/B0786VXPZK/)
-- [Pirate Enlightenment, or the Real Libertalia](https://www.amazon.co.uk/dp/B0B62TQVWF/)
-- [Wankernomics: A Deep-Dive Into Workplace Bullsh*ttery - THE INSTANT SUNDAY TIMES BESTSELLER (Perfect Secret Santa Gift for coworkers)](https://www.amazon.co.uk/dp/1399828487/)
-- [The Lives of the Caesars](https://www.amazon.co.uk/dp/0241186897/)
-- [Talking about Machines: An Ethnography of a Modern Job (Collection on Technology and Work)](https://www.amazon.co.uk/dp/0801483905/)
-- [1066 and All That](https://www.amazon.co.uk/dp/0413772705/)
-- [Slavery by Another Name: The Re-Enslavement of Black Americans from the Civil War to World War II](https://www.amazon.co.uk/dp/B003CIYTHC/)
+- [Theory of Literature (The Open Yale Courses Series)](https://www.amazon.co.uk/dp/B007R5DS4G/) - £20
+- [Ideas Have Consequences: Expanded Edition](https://www.amazon.co.uk/dp/B00FHTY1V8/) - £10
+- [Gaza: Past. Present. Future.](https://www.amazon.co.uk/dp/B07ZWBK8GH/) - £10
+- [War Is a Racket (Warbler Classics Annotated Edition)](https://www.amazon.co.uk/dp/1965684165/) - £10
+- [Postmodernism: or, the Cultural Logic of Late Capitalism](https://www.amazon.co.uk/dp/0860915379/) - £20
+- [No Bad Parts: The Bestselling Guide to Healing Trauma & Restoring Wholeness with the Internal Family Systems Model](https://www.amazon.co.uk/dp/1785045113/) - £20
+- [Object-Oriented Ontology: A New Theory of Everything (Pelican Books)](https://www.amazon.co.uk/dp/B0786VXPZK/) - £10
+- [Pirate Enlightenment, or the Real Libertalia](https://www.amazon.co.uk/dp/B0B62TQVWF/) - £10
+- [Wankernomics: A Deep-Dive Into Workplace Bullsh*ttery - THE INSTANT SUNDAY TIMES BESTSELLER (Perfect Secret Santa Gift for coworkers)](https://www.amazon.co.uk/dp/1399828487/) - £20
+- [The Lives of the Caesars](https://www.amazon.co.uk/dp/0241186897/) - £20
+- [Talking about Machines: An Ethnography of a Modern Job (Collection on Technology and Work)](https://www.amazon.co.uk/dp/0801483905/) - £20
+- [1066 and All That](https://www.amazon.co.uk/dp/0413772705/) - £10
+- [Slavery by Another Name: The Re-Enslavement of Black Americans from the Civil War to World War II](https://www.amazon.co.uk/dp/B003CIYTHC/) - £40
 - [The Hammer Blow: How 10 Women Disarmed a War Plane](https://www.amazon.co.uk/dp/094640920X/)
-- [A History of the World in 47 Borders: The Sunday Times #1 Bestseller](https://www.amazon.co.uk/dp/B0CC8W13S6/)
-- [Careless People: The acclaimed, scandalous bestseller that rocked the world](https://www.amazon.co.uk/dp/B0DZD18WRP/)
-- [The Road to Freedom: Economics and the Good Society](https://www.amazon.co.uk/dp/B0CKDYB73G/)
+- [A History of the World in 47 Borders: The Sunday Times #1 Bestseller](https://www.amazon.co.uk/dp/B0CC8W13S6/) - £10
+- [Careless People: The acclaimed, scandalous bestseller that rocked the world](https://www.amazon.co.uk/dp/B0DZD18WRP/) - £20
+- [The Road to Freedom: Economics and the Good Society](https://www.amazon.co.uk/dp/B0CKDYB73G/) - £10
 - [Existential Kink: Unmask Your Shadow and Embrace Your Power; A Method for Getting What You Want by Getting Off on What You Don't](https://www.amazon.co.uk/dp/B081QV19DW/)
-- [Economics: The User's Guide: A Pelican Introduction (Pelican Books)](https://www.amazon.co.uk/dp/0718197038/)
-- [The Awakening Body: Body-Based Meditations for Wisdom, Freedom, and Joy: Somatic Meditation for Discovering Our Deepest Life](https://www.amazon.co.uk/dp/1611803713/)
-- [On Food and Cooking: The Science and Lore of the Kitchen](https://www.amazon.co.uk/dp/0684800012/)
+- [Economics: The User's Guide: A Pelican Introduction (Pelican Books)](https://www.amazon.co.uk/dp/0718197038/) - £20
+- [The Awakening Body: Body-Based Meditations for Wisdom, Freedom, and Joy: Somatic Meditation for Discovering Our Deepest Life](https://www.amazon.co.uk/dp/1611803713/) - £20
+- [On Food and Cooking: The Science and Lore of the Kitchen](https://www.amazon.co.uk/dp/0684800012/) - £30
 - [Save the Cat!: The Last Book on Screenwriting You'll Ever Need](https://www.amazon.co.uk/dp/B07BKSS4MJ/)
 - [Dictionary of Fine Distinctions: Nuances, Niceties, and Subtle Shades of Meaning](https://www.amazon.co.uk/dp/1454952350/)
-- [Zoobiquity: The Astonishing Connection Between Human and Animal Health (Vintage)](https://www.amazon.co.uk/dp/0307477436/)
-- [Your Inner Fish: The amazing discovery of our 375-million-year-old ancestor](https://www.amazon.co.uk/dp/0141027584/)
-- [The Book of Why: The New Science of Cause and Effect (Penguin Science)](https://www.amazon.co.uk/dp/0141982411/)
+- [Zoobiquity: The Astonishing Connection Between Human and Animal Health (Vintage)](https://www.amazon.co.uk/dp/0307477436/) - £20
+- [Your Inner Fish: The amazing discovery of our 375-million-year-old ancestor](https://www.amazon.co.uk/dp/0141027584/) - £10
+- [The Book of Why: The New Science of Cause and Effect (Penguin Science)](https://www.amazon.co.uk/dp/0141982411/) - £10
 - [Epidemiology: A Very Short Introduction](https://www.amazon.co.uk/dp/B096HRSVDK/)
-- [Merchants of Doubt: How a Handful of Scientists Obscured the Truth on Issues from Tobacco Smoke to Global Warming](https://www.amazon.co.uk/dp/1408824833/)
-- [Doubt Is Their Product: How Industry's Assault on Science Threatens Your Health](https://www.amazon.co.uk/dp/0197760856/)
-- [The New Mediterranean Diet Cookbook: The Optimal Keto-Friendly Diet that Burns Fat, Promotes Longevity, and Prevents Chronic Disease (16) (Keto for Your Life)](https://www.amazon.co.uk/dp/1589239911/)
+- [Merchants of Doubt: How a Handful of Scientists Obscured the Truth on Issues from Tobacco Smoke to Global Warming](https://www.amazon.co.uk/dp/1408824833/) - £20
+- [Doubt Is Their Product: How Industry's Assault on Science Threatens Your Health](https://www.amazon.co.uk/dp/0197760856/) - £20
+- [The New Mediterranean Diet Cookbook: The Optimal Keto-Friendly Diet that Burns Fat, Promotes Longevity, and Prevents Chronic Disease (16) (Keto for Your Life)](https://www.amazon.co.uk/dp/1589239911/) - £20
 - [Never Home Alone: From Microbes to Millipedes, Camel Crickets, and Honeybees, the Natural History of Where We Live](https://www.amazon.co.uk/dp/B07KPK6SV5/)
-- [Insanely Simple: The Obsession That Drives Apple's Success](https://www.amazon.co.uk/dp/067092119X/)
+- [Insanely Simple: The Obsession That Drives Apple's Success](https://www.amazon.co.uk/dp/067092119X/) - £10
 - [Words That Work: It's Not What You Say, It's What People Hear](https://www.amazon.co.uk/dp/1401302599/)
-- [Don't Be Such a Scientist, Second Edition: Talking Substance in an Age of Style](https://www.amazon.co.uk/dp/1610919173/)
-- [The End of Overeating: Taking Control of Our Insatiable Appetite](https://www.amazon.co.uk/dp/014104781X/)
-- [Dostadning: The Gentle Art of Swedish Death Cleaning](https://www.amazon.co.uk/dp/1786891107/)
-- [Want: Sexual Fantasies by Anonymous](https://www.amazon.co.uk/dp/B0CWB2WCVZ/)
+- [Don't Be Such a Scientist, Second Edition: Talking Substance in an Age of Style](https://www.amazon.co.uk/dp/1610919173/) - £20
+- [The End of Overeating: Taking Control of Our Insatiable Appetite](https://www.amazon.co.uk/dp/014104781X/) - £20
+- [Dostadning: The Gentle Art of Swedish Death Cleaning](https://www.amazon.co.uk/dp/1786891107/) - £10
+- [Want: Sexual Fantasies by Anonymous](https://www.amazon.co.uk/dp/B0CWB2WCVZ/) - £10
 - [In Defense of Food: An Eater's Manifesto](https://www.amazon.co.uk/dp/B079TM1NRS/)
-- [A Fire Upon the Deep (S.F. MASTERWORKS)](https://www.amazon.co.uk/dp/1473211956/)
+- [A Fire Upon the Deep (S.F. MASTERWORKS)](https://www.amazon.co.uk/dp/1473211956/) - £10
 - [Getting Things Done: The Art of Stress-free Productivity](https://www.amazon.co.uk/dp/0349423148/)
-- [The Hero's Journey: Joseph Campbell on His Life and Work (Collected Works of Joseph Campbell)](https://www.amazon.co.uk/dp/1608681890/)
-- [The Dictionary of Obscure Sorrows](https://www.amazon.co.uk/dp/1501153641/)
-- [Games: Agency As Art (Thinking Art)](https://www.amazon.co.uk/dp/0190052082/)
-- [Disciplined Minds: A Critical Look at Salaried Professionals and the Soul-battering System That Shapes Their Lives](https://www.amazon.co.uk/dp/0742516857/)
-- [The Dream of Reason: A History of Western Philosophy from the Greeks to the Renaissance](https://www.amazon.co.uk/dp/0141983841/)
+- [The Hero's Journey: Joseph Campbell on His Life and Work (Collected Works of Joseph Campbell)](https://www.amazon.co.uk/dp/1608681890/) - £20
+- [The Dictionary of Obscure Sorrows](https://www.amazon.co.uk/dp/1501153641/) - £20
+- [Games: Agency As Art (Thinking Art)](https://www.amazon.co.uk/dp/0190052082/) - £40
+- [Disciplined Minds: A Critical Look at Salaried Professionals and the Soul-battering System That Shapes Their Lives](https://www.amazon.co.uk/dp/0742516857/) - £30
+- [The Dream of Reason: A History of Western Philosophy from the Greeks to the Renaissance](https://www.amazon.co.uk/dp/0141983841/) - £20
 - [Debunking Economics: The Naked Emperor Dethroned?](https://www.amazon.co.uk/dp/1848139926/)
-- [How To Do Nothing: Resisting the Attention Economy](https://www.amazon.co.uk/dp/1612198554/)
+- [How To Do Nothing: Resisting the Attention Economy](https://www.amazon.co.uk/dp/1612198554/) - £20
 - [Patterns, Thinking and Cognition: A Theory of Judgement](https://www.amazon.co.uk/dp/0226505278/)
 - [Unwinding Anxiety: Train Your Brain to Heal Your Mind](https://www.amazon.co.uk/dp/B08TX51K7Y/)
-- [To Hell With Culture, and Other Essays on Art and Society](https://www.amazon.co.uk/dp/1014228077/)
-- [The Criminal Prosecution and Capital Punishment of Animals](https://www.amazon.co.uk/dp/1886363528/)
-- [Heirs to Forgotten Kingdoms](https://www.amazon.co.uk/dp/1471114716/)
+- [To Hell With Culture, and Other Essays on Art and Society](https://www.amazon.co.uk/dp/1014228077/) - £50
+- [The Criminal Prosecution and Capital Punishment of Animals](https://www.amazon.co.uk/dp/1886363528/) - £30
+- [Heirs to Forgotten Kingdoms](https://www.amazon.co.uk/dp/1471114716/) - £20
 - [Watching the English: The International Bestseller Revised and Updated: The Hidden Rules of English Behaviour](https://www.amazon.co.uk/dp/1444785206/)
-- [Come as You Are: the bestselling guide to the new science that will transform your sex life](https://www.amazon.co.uk/dp/B00V58R0ZE/)
-- [Left Is Not Woke](https://www.amazon.co.uk/dp/1509558306/)
+- [Come as You Are: the bestselling guide to the new science that will transform your sex life](https://www.amazon.co.uk/dp/B00V58R0ZE/) - £10
+- [Left Is Not Woke](https://www.amazon.co.uk/dp/1509558306/) - £20
 - [Wasteland: The Dirty Truth About What We Throw Away, Where It Goes, and Why It Matters](https://www.amazon.co.uk/dp/B0BVWKRDGG/)
-- [Waste: Uncovering the Global Food Scandal](https://www.amazon.co.uk/dp/0141036346/)
-- [The War of Art. So durchbrechen Sie innere Blockaden und gewinnen kreative Energie: Strategien für Schriftsteller, Künstler und kreative Start-ups](https://www.amazon.co.uk/dp/386671159X/)
-- [My Own Story (Vintage Feminism Short Edition) (Vintage Feminism Short Editions)](https://www.amazon.co.uk/dp/1784874469/)
+- [Waste: Uncovering the Global Food Scandal](https://www.amazon.co.uk/dp/0141036346/) - £20
+- [The War of Art. So durchbrechen Sie innere Blockaden und gewinnen kreative Energie: Strategien für Schriftsteller, Künstler und kreative Start-ups](https://www.amazon.co.uk/dp/386671159X/) - £10
+- [My Own Story (Vintage Feminism Short Edition) (Vintage Feminism Short Editions)](https://www.amazon.co.uk/dp/1784874469/) - £10
 - [Suffrage: Women's Long Battle for the Vote](https://www.amazon.co.uk/dp/B07VP62CBD/)
-- [On Writing Well, 30th Anniversary Edition: The Classic Guide to Writing Nonfiction](https://www.amazon.co.uk/dp/0060891548/)
-- [Why Machines Learn: The Elegant Maths Behind Modern AI](https://www.amazon.co.uk/dp/0241586488/)
-- [The Linux Programming Interface: A Linux and UNIX System Programming Handbook](https://www.amazon.co.uk/dp/1593272200/)
-- [Systems Performance: Enterprise and the Cloud (Addison-Wesley Professional Computing Series)](https://www.amazon.co.uk/dp/0136820158/)
-- [The Elements of Computing Systems: Building a Modern Computer from First Principles](https://www.amazon.co.uk/dp/0262539802/)
-- [The Upside of Irrationality: The Unexpected Benefits of Defying Logic](https://www.amazon.co.uk/dp/0061995045/)
-- [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.co.uk/dp/0137909101/)
-- [Engineering Management for the Rest of Us](https://www.amazon.co.uk/dp/B0BHX8BQ9C/)
-- [Courtesans and Fishcakes: The Consuming Passions of Classical Athens](https://www.amazon.co.uk/dp/0002555913/)
-- [A History of Private Life V 1 – From Pagan Rome to Byzantium](https://www.amazon.co.uk/dp/0674399757/)
-- [Understanding Computation: Impossible Code and the Meaning of Programs](https://www.amazon.co.uk/dp/1449329276/)
-- [The Power of the Powerless](https://www.amazon.co.uk/dp/178487504X/)
-- [Mine Were of Trouble: A Nationalist Account of the Spanish Civil War](https://www.amazon.co.uk/dp/B08673MBF1/)
-- [The Spanish Civil War](https://www.amazon.co.uk/dp/0141011610/)
-- [Spain in Our Hearts](https://www.amazon.co.uk/dp/1509810609/)
+- [On Writing Well, 30th Anniversary Edition: The Classic Guide to Writing Nonfiction](https://www.amazon.co.uk/dp/0060891548/) - £20
+- [Why Machines Learn: The Elegant Maths Behind Modern AI](https://www.amazon.co.uk/dp/0241586488/) - £20
+- [The Linux Programming Interface: A Linux and UNIX System Programming Handbook](https://www.amazon.co.uk/dp/1593272200/) - £60
+- [Systems Performance: Enterprise and the Cloud (Addison-Wesley Professional Computing Series)](https://www.amazon.co.uk/dp/0136820158/) - £30
+- [The Elements of Computing Systems: Building a Modern Computer from First Principles](https://www.amazon.co.uk/dp/0262539802/) - £30
+- [The Upside of Irrationality: The Unexpected Benefits of Defying Logic](https://www.amazon.co.uk/dp/0061995045/) - £20
+- [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.co.uk/dp/0137909101/) - £30
+- [Engineering Management for the Rest of Us](https://www.amazon.co.uk/dp/B0BHX8BQ9C/) - £20
+- [Courtesans and Fishcakes: The Consuming Passions of Classical Athens](https://www.amazon.co.uk/dp/0002555913/) - £20
+- [A History of Private Life V 1 – From Pagan Rome to Byzantium](https://www.amazon.co.uk/dp/0674399757/) - £50
+- [Understanding Computation: Impossible Code and the Meaning of Programs](https://www.amazon.co.uk/dp/1449329276/) - £30
+- [The Power of the Powerless](https://www.amazon.co.uk/dp/178487504X/) - £10
+- [Mine Were of Trouble: A Nationalist Account of the Spanish Civil War](https://www.amazon.co.uk/dp/B08673MBF1/) - £20
+- [The Spanish Civil War](https://www.amazon.co.uk/dp/0141011610/) - £20
+- [Spain in Our Hearts](https://www.amazon.co.uk/dp/1509810609/) - £20
 
 ## Stuff
 
-- [Waterproof reversible blanket](https://www.amazon.co.uk/dp/B0CJBBTZM5/)
-- [BYOMA Melting Balm Facial Cleanser](https://www.amazon.co.uk/dp/B0C7CB452S/)
-- [Measuring jug](https://www.amazon.co.uk/dp/B0BS46QF6X/)
+- [Waterproof reversible blanket](https://www.amazon.co.uk/dp/B0CJBBTZM5/) - £40
+- [BYOMA Melting Balm Facial Cleanser](https://www.amazon.co.uk/dp/B0C7CB452S/) - £20
+- [Measuring jug](https://www.amazon.co.uk/dp/B0BS46QF6X/) - £20
 - [Adult bib](https://www.amazon.co.uk/dp/B00CTNM1SK/)
-- [Tea infuser](https://www.amazon.co.uk/dp/B01BPPSBTK/)
-- [Fogless shower mirror](https://www.amazon.co.uk/dp/B071WMZTZH/)
-- [Spirulina powder](https://www.amazon.co.uk/dp/B0065VDO4C/)
-- [First Aid Beauty Ultra Repair Cream](https://www.amazon.co.uk/dp/B08BL22L6Y/)
+- [Tea infuser](https://www.amazon.co.uk/dp/B01BPPSBTK/) - £20
+- [Fogless shower mirror](https://www.amazon.co.uk/dp/B071WMZTZH/) - £20
+- [Spirulina powder](https://www.amazon.co.uk/dp/B0065VDO4C/) - £10
+- [First Aid Beauty Ultra Repair Cream](https://www.amazon.co.uk/dp/B08BL22L6Y/) - £40
 - [Versed Press Restart Retinol Body Lotion](https://www.amazon.co.uk/dp/B09WJBD9KM/)
-- [Food storage containers](https://www.amazon.co.uk/dp/B07YLF9ZJ9/)
+- [Food storage containers](https://www.amazon.co.uk/dp/B07YLF9ZJ9/) - £30
 - [Biossance Squalane + Marine Algae Eye Cream](https://www.amazon.co.uk/dp/B07YS9SY4R/)
-- [Under-shelf spice rack](https://www.amazon.co.uk/dp/B07R4P8JT6/)
-- [Magnetic measuring spoons](https://www.amazon.co.uk/dp/B0CJMDXBPX/)
-- [The INKEY List Caffeine Eye Cream](https://www.amazon.co.uk/dp/B09N9ZV34Z/)
-- [Sunscreen applicator](https://www.amazon.co.uk/dp/B0B8VTG317/)
-- [Vegetable chopper](https://www.amazon.co.uk/dp/B0764HS4SL/)
-- [TVP chunks](https://www.amazon.co.uk/dp/B08GDHJKR3/)
-- [Mini salad spinner](https://www.amazon.co.uk/dp/B000YJB8YE/)
-- [Personalized cat collar](https://www.amazon.co.uk/dp/B09697HN74/)
+- [Under-shelf spice rack](https://www.amazon.co.uk/dp/B07R4P8JT6/) - £20
+- [Magnetic measuring spoons](https://www.amazon.co.uk/dp/B0CJMDXBPX/) - £10
+- [The INKEY List Caffeine Eye Cream](https://www.amazon.co.uk/dp/B09N9ZV34Z/) - £10
+- [Sunscreen applicator](https://www.amazon.co.uk/dp/B0B8VTG317/) - £20
+- [Vegetable chopper](https://www.amazon.co.uk/dp/B0764HS4SL/) - £20
+- [TVP chunks](https://www.amazon.co.uk/dp/B08GDHJKR3/) - £10
+- [Mini salad spinner](https://www.amazon.co.uk/dp/B000YJB8YE/) - £20
+- [Personalized cat collar](https://www.amazon.co.uk/dp/B09697HN74/) - £10
 - [Digestive enzyme supplement](https://www.amazon.co.uk/dp/B0012QPZXS/)
 - [Battlestar Galactica ship model](https://www.amazon.co.uk/dp/B07DBCP29Q/)
-- [Adjustable dumbbell](https://www.amazon.co.uk/dp/B0BZHH5GWL/)
-- [USB-C MagSafe charging station](https://www.amazon.co.uk/dp/B0CV4VG2L1/)
-- [Feather cat toy replacements](https://www.amazon.co.uk/dp/B09P8776F8/)
+- [Adjustable dumbbell](https://www.amazon.co.uk/dp/B0BZHH5GWL/) - £130
+- [USB-C MagSafe charging station](https://www.amazon.co.uk/dp/B0CV4VG2L1/) - £80
+- [Feather cat toy replacements](https://www.amazon.co.uk/dp/B09P8776F8/) - £10
 - [Men's boxer shorts](https://www.amazon.co.uk/dp/B09K7KV38W/)
