@@ -87,27 +87,25 @@ permalink: /wishlist/
 ## Stuff
 
 - [Waterproof reversible blanket](https://www.amazon.co.uk/dp/B0CJBBTZM5/) - £40
-- [BYOMA Melting Balm Facial Cleanser](https://www.amazon.co.uk/dp/B0C7CB452S/) - £20
 - [Measuring jug](https://www.amazon.co.uk/dp/B0BS46QF6X/) - £20
-- [Adult bib](https://www.amazon.co.uk/dp/B00CTNM1SK/)
+- [Adult bib (I'm a pig)](https://www.amazon.co.uk/dp/B00CTNM1SK/)
 - [Tea infuser](https://www.amazon.co.uk/dp/B01BPPSBTK/) - £20
 - [Fogless shower mirror](https://www.amazon.co.uk/dp/B071WMZTZH/) - £20
 - [Spirulina powder](https://www.amazon.co.uk/dp/B0065VDO4C/) - £10
+- [BYOMA Melting Balm Facial Cleanser](https://www.amazon.co.uk/dp/B0C7CB452S/) - £20
 - [First Aid Beauty Ultra Repair Cream](https://www.amazon.co.uk/dp/B08BL22L6Y/) - £40
-- [Versed Press Restart Retinol Body Lotion](https://www.amazon.co.uk/dp/B09WJBD9KM/)
-- [Food storage containers](https://www.amazon.co.uk/dp/B07YLF9ZJ9/) - £30
+- [Body Retinol](https://www.amazon.co.uk/dp/B09WJBD9KM/)
 - [Biossance Squalane + Marine Algae Eye Cream](https://www.amazon.co.uk/dp/B07YS9SY4R/)
+- [Sunscreen applicator](https://www.amazon.co.uk/dp/B0B8VTG317/) - £20
+- [The INKEY List Caffeine Eye Cream](https://www.amazon.co.uk/dp/B09N9ZV34Z/) - £10
+- [Food storage containers](https://www.amazon.co.uk/dp/B07YLF9ZJ9/) - £30
 - [Under-shelf spice rack](https://www.amazon.co.uk/dp/B07R4P8JT6/) - £20
 - [Magnetic measuring spoons](https://www.amazon.co.uk/dp/B0CJMDXBPX/) - £10
-- [The INKEY List Caffeine Eye Cream](https://www.amazon.co.uk/dp/B09N9ZV34Z/) - £10
-- [Sunscreen applicator](https://www.amazon.co.uk/dp/B0B8VTG317/) - £20
 - [Vegetable chopper](https://www.amazon.co.uk/dp/B0764HS4SL/) - £20
 - [TVP chunks](https://www.amazon.co.uk/dp/B08GDHJKR3/) - £10
 - [Mini salad spinner](https://www.amazon.co.uk/dp/B000YJB8YE/) - £20
 - [Personalized cat collar](https://www.amazon.co.uk/dp/B09697HN74/) - £10
 - [Digestive enzyme supplement](https://www.amazon.co.uk/dp/B0012QPZXS/)
-- [Battlestar Galactica ship model](https://www.amazon.co.uk/dp/B07DBCP29Q/)
-- [Adjustable dumbbell](https://www.amazon.co.uk/dp/B0BZHH5GWL/) - £130
+- [Fancy adjustable dumbbell](https://www.amazon.co.uk/dp/B0BZHH5GWL/) - £130
 - [USB-C MagSafe charging station](https://www.amazon.co.uk/dp/B0CV4VG2L1/) - £80
 - [Feather cat toy replacements](https://www.amazon.co.uk/dp/B09P8776F8/) - £10
-- [Men's boxer shorts](https://www.amazon.co.uk/dp/B09K7KV38W/)
