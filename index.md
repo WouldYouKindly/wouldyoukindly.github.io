@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Home
+title: ""
+permalink: /
+redirect_to: /wishlist/
 ---
 
-# Welcome
+<meta http-equiv="refresh" content="0; url=/wishlist/">
+<script>window.location.href = "/wishlist/";</script>
 
-## Navigation
-
-- [Blog](/blog)
-- [Wishlist](/wishlist)
+Redirecting to [wishlist](/wishlist/)...
