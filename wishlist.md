@@ -83,6 +83,8 @@ permalink: /wishlist/
 - [Mine Were of Trouble: A Nationalist Account of the Spanish Civil War](https://www.amazon.co.uk/dp/B08673MBF1/) by Peter Kemp
 - [The Spanish Civil War](https://www.amazon.co.uk/dp/0141011610/) by Hugh Thomas
 - [Spain in Our Hearts](https://www.amazon.co.uk/dp/1509810609/) by Adam Hochschild
+- [Defending the Indefensible](https://www.amazon.co.uk/Defending-Indefensible-Global-text-McCulloch-G-Tweedale/dp/B003T7MHO8) by McCulloch & Tweedale
+- [The Toxic Truth](https://www.amazon.co.uk/TOXIC-TRUTH-MYCOTOXINS-mycotoxins-overlooked/dp/B0FMGWWV7K) by Diana Lugova
 
 ## Stuff
 
