@@ -85,6 +85,8 @@ permalink: /wishlist/
 - [Spain in Our Hearts](https://www.amazon.co.uk/dp/1509810609/) by Adam Hochschild
 - [Defending the Indefensible](https://www.amazon.co.uk/Defending-Indefensible-Global-text-McCulloch-G-Tweedale/dp/B003T7MHO8) by McCulloch & Tweedale
 - [The Toxic Truth](https://www.amazon.co.uk/TOXIC-TRUTH-MYCOTOXINS-mycotoxins-overlooked/dp/B0FMGWWV7K) by Diana Lugova
+- [How the Irish Became White](https://amzn.eu/d/iffnASQ) by Noel Ignatiev
+
 
 ## Stuff
 
