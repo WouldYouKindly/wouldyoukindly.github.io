@@ -86,7 +86,8 @@ permalink: /wishlist/
 - [Defending the Indefensible](https://www.amazon.co.uk/Defending-Indefensible-Global-text-McCulloch-G-Tweedale/dp/B003T7MHO8) by McCulloch & Tweedale
 - [The Toxic Truth](https://www.amazon.co.uk/TOXIC-TRUTH-MYCOTOXINS-mycotoxins-overlooked/dp/B0FMGWWV7K) by Diana Lugova
 - [How the Irish Became White](https://amzn.eu/d/iffnASQ) by Noel Ignatiev
-
+- [The Dreams of Reason](https://www.amazon.co.uk/Dreams-Reason-Computer-Sciences-Complexity/dp/0553347101) by Heinz R. Pagels
+- [The Mating Mind](https://www.waterstones.com/book/9780099288244) by Geoffrey Miller
 
 ## Stuff
 
