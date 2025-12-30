@@ -89,7 +89,7 @@ permalink: /wishlist/
 - [The Dreams of Reason](https://www.amazon.co.uk/Dreams-Reason-Computer-Sciences-Complexity/dp/0553347101) by Heinz R. Pagels
 - [The Mating Mind](https://www.waterstones.com/book/9780099288244) by Geoffrey Miller
 - [Sadly, Porn](https://www.amazon.co.uk/Sadly-Porn-Edward-Teach-MD) by Edward Teach
-
+- [Watch What You Hear](https://www.amazon.co.uk/Watch-What-You-Hear-Penelopes) by Edward Teach
 
 ## Stuff
 
