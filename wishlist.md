@@ -88,6 +88,8 @@ permalink: /wishlist/
 - [How the Irish Became White](https://amzn.eu/d/iffnASQ) by Noel Ignatiev
 - [The Dreams of Reason](https://www.amazon.co.uk/Dreams-Reason-Computer-Sciences-Complexity/dp/0553347101) by Heinz R. Pagels
 - [The Mating Mind](https://www.waterstones.com/book/9780099288244) by Geoffrey Miller
+- [Sadly, Porn](https://www.amazon.co.uk/Sadly-Porn-Edward-Teach-MD) by Edward Teach
+
 
 ## Stuff
 
