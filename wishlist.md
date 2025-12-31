@@ -90,6 +90,8 @@ permalink: /wishlist/
 - [The Mating Mind](https://www.waterstones.com/book/9780099288244) by Geoffrey Miller
 - [Sadly, Porn](https://www.amazon.co.uk/Sadly-Porn-Edward-Teach-MD) by Edward Teach
 - [Watch What You Hear](https://www.amazon.co.uk/Watch-What-You-Hear-Penelopes) by Edward Teach
+- [The Thief's Journal](https://www.waterstones.com/book/the-thiefs-journal/jean-genet/bernard-frechtman/9780571340835) by Jean Genet
+
 
 ## Stuff
 
