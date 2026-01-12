@@ -91,7 +91,13 @@ permalink: /wishlist/
 - [Sadly, Porn](https://www.amazon.co.uk/Sadly-Porn-Edward-Teach-MD) by Edward Teach
 - [Watch What You Hear](https://www.amazon.co.uk/Watch-What-You-Hear-Penelopes) by Edward Teach
 - [The Thief's Journal](https://www.waterstones.com/book/the-thiefs-journal/jean-genet/bernard-frechtman/9780571340835) by Jean Genet
+<!--Rec by Martin Fowler-->
 - [The Power Broker](https://www.amazon.co.uk/Power-Broker-Robert-Moses-Fall/dp/1847923658) by Robert A Caro
+<!--Rec by Perplexity after reading Leo Tolstoy's What is Art -->
+- [Beauty](https://www.amazon.co.uk/Beauty-Fortunes-Ancient-Onassis-Hellenic/dp/0190663448) by David Konstan
+- [Beauty and the Gods](https://www.amazon.co.uk/Beauty-Gods-History-Homer-Plato/dp/0691250200) by Hugo Shakeshaft
+<!--Rec by Bourdieu-->
+- [The Consecration of the Writer](https://www.amazon.co.uk/Consecration-Writer-1750-1830-European-Horizons/dp/0803261527) by Paul Bénichou
 
 
 ## Stuff
