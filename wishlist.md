@@ -99,6 +99,9 @@ permalink: /wishlist/
 <!--Rec by Bourdieu-->
 - [The Consecration of the Writer](https://www.amazon.co.uk/Consecration-Writer-1750-1830-European-Horizons/dp/0803261527) by Paul Bénichou
 
+<!--Rec by Overthink podcast-->
+- [Unfashionable-Observations](https://www.amazon.co.uk/Unfashionable-Observations-Complete-Friedrich-Nietzsche/dp/0804734038) by Nietzsche
+
 
 ## Stuff
 
