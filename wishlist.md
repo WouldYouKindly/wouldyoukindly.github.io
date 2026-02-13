@@ -47,7 +47,7 @@ permalink: /wishlist/
 - [Want: Sexual Fantasies by Anonymous](https://www.amazon.co.uk/dp/B0CWB2WCVZ/) by Gillian Anderson
 - [In Defense of Food: An Eater's Manifesto](https://www.amazon.co.uk/dp/B079TM1NRS/) by Scott Brick, Michael Pollan
 - [A Fire Upon the Deep](https://www.amazon.co.uk/dp/1473211956/) by Vernor Vinge
-- [Getting Things Done: The Art of Stress-free Productivity](https://www.amazon.co.uk/dp/0349423148/) by David Allen
+- [Getting Things Done](https://www.amazon.co.uk/dp/0349423148/) by David Allen
 - [The Hero's Journey](https://www.amazon.co.uk/dp/1608681890/) by Joseph Campbell
 - [The Dictionary of Obscure Sorrows](https://www.amazon.co.uk/dp/1501153641/) by John Koenig
 - [Games: Agency As Art (Thinking Art)](https://www.amazon.co.uk/dp/0190052082/) by C. Thi Nguyen
@@ -57,7 +57,7 @@ permalink: /wishlist/
 - [How To Do Nothing: Resisting the Attention Economy](https://www.amazon.co.uk/dp/1612198554/) by Jenny Odell
 - [Patterns, Thinking and Cognition: A Theory of Judgement](https://www.amazon.co.uk/dp/0226505278/) by Howard Margolis
 - [Unwinding Anxiety: Train Your Brain to Heal Your Mind](https://www.amazon.co.uk/dp/B08TX51K7Y/) by Judson Brewer, Penguin Audio
-- [To Hell With Culture, and Other Essays on Art and Society](https://www.amazon.co.uk/dp/1014228077/) by Sir Herbert Edward Read
+- [To Hell With Culture](https://www.amazon.co.uk/dp/1014228077/) by Sir Herbert Edward Read
 - [The Criminal Prosecution and Capital Punishment of Animals](https://www.amazon.co.uk/dp/1886363528/) by E P Evans
 - [Heirs to Forgotten Kingdoms](https://www.amazon.co.uk/dp/1471114716/) by Gerard Russell
 - [Watching the English](https://www.amazon.co.uk/dp/1444785206/) by Kate Fox
@@ -67,18 +67,18 @@ permalink: /wishlist/
 - [Waste: Uncovering the Global Food Scandal](https://www.amazon.co.uk/dp/0141036346/) by Tristram Stuart
 - [The War of Art](https://www.amazon.co.uk/dp/386671159X/) by Steven Pressfield, Karin Dufner
 - [My Own Story](https://www.amazon.co.uk/dp/1784874469/) by Emmeline Pankhurst
-- [Suffrage: Women's Long Battle for the Vote](https://www.amazon.co.uk/dp/B07VP62CBD/) by Cynthia Farrell, Ellen Carol DuBois
+- [Suffrage](https://www.amazon.co.uk/dp/B07VP62CBD/) by Cynthia Farrell, Ellen Carol DuBois
 - [On Writing Well](https://www.amazon.co.uk/dp/0060891548/) by William Zinsser
 - [Why Machines Learn: The Elegant Maths Behind Modern AI](https://www.amazon.co.uk/dp/0241586488/) by Anil Ananthaswamy
-- [The Linux Programming Interface: A Linux and UNIX System Programming Handbook](https://www.amazon.co.uk/dp/1593272200/) by Michael Kerrisk
+- [The Linux Programming Interface](https://www.amazon.co.uk/dp/1593272200/) by Michael Kerrisk
 - [Systems Performance: Enterprise and the Cloud](https://www.amazon.co.uk/dp/0136820158/) by Brendan Gregg
 - [The Elements of Computing Systems: Building a Modern Computer from First Principles](https://www.amazon.co.uk/dp/0262539802/) by Noam Nisan, Shimon Schocken
-- [The Upside of Irrationality: The Unexpected Benefits of Defying Logic](https://www.amazon.co.uk/dp/0061995045/) by Dan Ariely
-- [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.co.uk/dp/0137909101/) by Charles Petzold
+- [The Upside of Irrationality](https://www.amazon.co.uk/dp/0061995045/) by Dan Ariely
+- [Code](https://www.amazon.co.uk/dp/0137909101/) by Charles Petzold
 - [Engineering Management for the Rest of Us](https://www.amazon.co.uk/dp/B0BHX8BQ9C/) by Sarah Drasner
 - [Courtesans and Fishcakes: The Consuming Passions of Classical Athens](https://www.amazon.co.uk/dp/0002555913/) by James Davidson
 - [A History of Private Life V 1 – From Pagan Rome to Byzantium](https://www.amazon.co.uk/dp/0674399757/) by A Veyne
-- [Understanding Computation: Impossible Code and the Meaning of Programs](https://www.amazon.co.uk/dp/1449329276/) by Tom Stuart
+- [Understanding Computation](https://www.amazon.co.uk/dp/1449329276/) by Tom Stuart
 - [The Power of the Powerless](https://www.amazon.co.uk/dp/178487504X/) by Václav Havel, Timothy Snyder
 - [Mine Were of Trouble: A Nationalist Account of the Spanish Civil War](https://www.amazon.co.uk/dp/B08673MBF1/) by Peter Kemp
 - [The Spanish Civil War](https://www.amazon.co.uk/dp/0141011610/) by Hugh Thomas
@@ -91,6 +91,7 @@ permalink: /wishlist/
 - [Sadly, Porn](https://www.amazon.co.uk/Sadly-Porn-Edward-Teach-MD) by Edward Teach
 - [Watch What You Hear](https://www.amazon.co.uk/Watch-What-You-Hear-Penelopes) by Edward Teach
 - [The Thief's Journal](https://www.waterstones.com/book/the-thiefs-journal/jean-genet/bernard-frechtman/9780571340835) by Jean Genet
+- [Deconstruction: A Reader](https://amzn.eu/d/0iv5iuQy) by Martin McQuillan
 <!--Rec by Martin Fowler-->
 - [The Power Broker](https://www.amazon.co.uk/Power-Broker-Robert-Moses-Fall/dp/1847923658) by Robert A Caro
 <!--Rec by Perplexity after reading Leo Tolstoy's What is Art -->
