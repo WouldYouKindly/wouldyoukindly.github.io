@@ -92,6 +92,8 @@ permalink: /wishlist/
 - [Watch What You Hear](https://www.amazon.co.uk/Watch-What-You-Hear-Penelopes) by Edward Teach
 - [The Thief's Journal](https://www.waterstones.com/book/the-thiefs-journal/jean-genet/bernard-frechtman/9780571340835) by Jean Genet
 - [Deconstruction: A Reader](https://amzn.eu/d/0iv5iuQy) by Martin McQuillan
+- [The Goodness Paradox:](https://amzn.eu/d/0hI5cIi0) by Richard Wrangham
+
 <!--Rec by Martin Fowler-->
 - [The Power Broker](https://www.amazon.co.uk/Power-Broker-Robert-Moses-Fall/dp/1847923658) by Robert A Caro
 <!--Rec by Perplexity after reading Leo Tolstoy's What is Art -->
@@ -107,7 +109,7 @@ permalink: /wishlist/
 
 <!--Rec by thelastpsychiatrist-->
 - [Enemies of Promise](https://amzn.eu/d/07YFCat0) by Cyril Connolly
-
+- [Trading Up: Why Consumers Want New Luxury Goods](https://amzn.eu/d/05dJXfZt) by Michael J. Silverstein
 
 ## Stuff
 
