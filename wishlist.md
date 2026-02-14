@@ -103,6 +103,7 @@ permalink: /wishlist/
 <!--Rec by Overthink podcast-->
 - [Unfashionable-Observations](https://www.amazon.co.uk/Unfashionable-Observations-Complete-Friedrich-Nietzsche/dp/0804734038) by Nietzsche
 - [Biological Exuberance: Animal Homosexuality and Natural Diversity](https://amzn.eu/d/08C1pQ2y) by Bruce Bagemihl
+- [The Image: A Guide to Pseudo-events in Americ](https://amzn.eu/d/0iqmUlED) by Daniel J. Boorstin
 
 <!--Rec by thelastpsychiatrist-->
 - [Enemies of Promise](https://amzn.eu/d/07YFCat0) by Cyril Connolly
