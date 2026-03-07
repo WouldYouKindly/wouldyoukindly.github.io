@@ -93,6 +93,7 @@ permalink: /wishlist/
 - [The Thief's Journal](https://www.waterstones.com/book/the-thiefs-journal/jean-genet/bernard-frechtman/9780571340835) by Jean Genet
 - [Deconstruction: A Reader](https://amzn.eu/d/0iv5iuQy) by Martin McQuillan
 - [The Goodness Paradox:](https://amzn.eu/d/0hI5cIi0) by Richard Wrangham
+- [Bowling Alone: The Collapse and Revival of American Community](https://amzn.eu/d/04PQTxAO) by Robert D. Putnam
 
 <!--Rec by Martin Fowler-->
 - [The Power Broker](https://www.amazon.co.uk/Power-Broker-Robert-Moses-Fall/dp/1847923658) by Robert A Caro
@@ -105,7 +106,7 @@ permalink: /wishlist/
 <!--Rec by Overthink podcast-->
 - [Unfashionable-Observations](https://www.amazon.co.uk/Unfashionable-Observations-Complete-Friedrich-Nietzsche/dp/0804734038) by Nietzsche
 - [Biological Exuberance: Animal Homosexuality and Natural Diversity](https://amzn.eu/d/08C1pQ2y) by Bruce Bagemihl
-- [The Image: A Guide to Pseudo-events in Americ](https://amzn.eu/d/0iqmUlED) by Daniel J. Boorstin
+- [The Image: A Guide to Pseudo-events in America](https://amzn.eu/d/0iqmUlED) by Daniel J. Boorstin
 
 <!--Rec by thelastpsychiatrist-->
 - [Enemies of Promise](https://amzn.eu/d/07YFCat0) by Cyril Connolly
