@@ -62,7 +62,6 @@ permalink: /wishlist/
 - [Heirs to Forgotten Kingdoms](https://www.amazon.co.uk/dp/1471114716/) by Gerard Russell
 - [Watching the English](https://www.amazon.co.uk/dp/1444785206/) by Kate Fox
 - [Come as You Are](https://www.amazon.co.uk/dp/B00V58R0ZE/) by Emily Nagoski
-- [Left Is Not Woke](https://www.amazon.co.uk/dp/1509558306/) by Susan Neiman
 - [Wasteland](https://www.amazon.co.uk/dp/B0BVWKRDGG/) by Oliver Franklin-Wallis, Chris Harper
 - [Waste: Uncovering the Global Food Scandal](https://www.amazon.co.uk/dp/0141036346/) by Tristram Stuart
 - [The War of Art](https://www.amazon.co.uk/dp/386671159X/) by Steven Pressfield, Karin Dufner
@@ -104,7 +103,6 @@ permalink: /wishlist/
 - [The Consecration of the Writer](https://www.amazon.co.uk/Consecration-Writer-1750-1830-European-Horizons/dp/0803261527) by Paul Bénichou
 
 <!--Rec by Overthink podcast-->
-- [Unfashionable-Observations](https://www.amazon.co.uk/Unfashionable-Observations-Complete-Friedrich-Nietzsche/dp/0804734038) by Nietzsche
 - [Biological Exuberance: Animal Homosexuality and Natural Diversity](https://amzn.eu/d/08C1pQ2y) by Bruce Bagemihl
 - [The Image: A Guide to Pseudo-events in America](https://amzn.eu/d/0iqmUlED) by Daniel J. Boorstin
 
@@ -115,7 +113,6 @@ permalink: /wishlist/
 ## Stuff
 
 - [Waterproof reversible blanket](https://www.amazon.co.uk/dp/B0CJBBTZM5/) - £40
-- [Measuring jug](https://www.amazon.co.uk/dp/B0BS46QF6X/) - £20
 - [Adult bib (I'm a pig)](https://www.amazon.co.uk/dp/B00CTNM1SK/)
 - [Tea infuser](https://www.amazon.co.uk/dp/B01BPPSBTK/) - £20
 - [Fogless shower mirror](https://www.amazon.co.uk/dp/B071WMZTZH/) - £20
@@ -128,8 +125,6 @@ permalink: /wishlist/
 - [The INKEY List Caffeine Eye Cream](https://www.amazon.co.uk/dp/B09N9ZV34Z/) - £10
 - [Food storage containers](https://www.amazon.co.uk/dp/B07YLF9ZJ9/) - £30
 - [Under-shelf spice rack](https://www.amazon.co.uk/dp/B07R4P8JT6/) - £20
-- [Magnetic measuring spoons](https://www.amazon.co.uk/dp/B0CJMDXBPX/) - £10
-- [Vegetable chopper](https://www.amazon.co.uk/dp/B0764HS4SL/) - £20
 - [TVP chunks](https://www.amazon.co.uk/dp/B08GDHJKR3/) - £10
 - [Mini salad spinner](https://www.amazon.co.uk/dp/B000YJB8YE/) - £20
 - [Personalized cat collar](https://www.amazon.co.uk/dp/B09697HN74/) - £10
