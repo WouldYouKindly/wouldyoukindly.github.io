@@ -6,7 +6,16 @@ permalink: /wishlist/
 
 # Wishlist
 
+## Disclaimer
+
+I don't want more things - on the opposite, I'm actively trying to get rid of stuff I don't
+use. Having said that, there are a few things I would enjoy having or trying out.
+
 ## Books
+
+I like books on politics, sociology, philosophy (especially post-modern, but preferrably less dense than
+Derrida...), history (I'd love a book about the history of the burger!) But honestly, any good non-fiction
+will make me happy. Below are things that I plan to read at some point (yeah, keep lying to yourself bud):
 
 - [Theory of Literature (The Open Yale Courses Series)](https://www.amazon.co.uk/dp/B007R5DS4G/) by Paul H. Fry
 - [Ideas Have Consequences: Expanded Edition](https://www.amazon.co.uk/dp/B00FHTY1V8/) by Richard M. Weaver, Roger Kimball
@@ -111,6 +120,9 @@ permalink: /wishlist/
 - [Trading Up: Why Consumers Want New Luxury Goods](https://amzn.eu/d/05dJXfZt) by Michael J. Silverstein
 
 ## Stuff
+
+I like stuff that makes life a bit easier. If you have a good recommendation, sharing it with me
+is as good as buying!
 
 - [Waterproof reversible blanket](https://www.amazon.co.uk/dp/B0CJBBTZM5/) - £40
 - [Adult bib (I'm a pig)](https://www.amazon.co.uk/dp/B00CTNM1SK/)
