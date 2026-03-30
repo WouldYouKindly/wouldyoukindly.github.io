@@ -1,4 +1,8 @@
-# Medium is the Message #1
+---
+layout: post
+title: "Medium is the Message #1"
+date: 2026-03-29
+---
 
 The medium of communication (instant messaging, phone calls, video calls) affects the way I think about communication—and even the content of communication itself.
 
