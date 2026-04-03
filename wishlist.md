@@ -15,7 +15,7 @@ use. Having said that, there are a few things I would enjoy having or trying out
 
 I like books on politics, sociology, philosophy (especially post-modern, but preferrably less dense than
 Derrida...), history (I'd love a book about the history of the burger!) But honestly, any good non-fiction
-will make me happy. Below are things that I plan to read at some point (yeah, keep lying to yourself bud):
+will make me happy. Below are things that I plan to read at some point:
 
 - [Theory of Literature (The Open Yale Courses Series)](https://www.amazon.co.uk/dp/B007R5DS4G/) by Paul H. Fry
 - [Ideas Have Consequences: Expanded Edition](https://www.amazon.co.uk/dp/B00FHTY1V8/) by Richard M. Weaver, Roger Kimball
