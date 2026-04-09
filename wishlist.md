@@ -121,7 +121,7 @@ will make me happy. Below are things that I plan to read at some point:
 
 <!-- Rec by TRIH -->
 - [The Marriage of Cadmus and Harmony](https://www.waterstones.com/book/9780241399200) by Roberto Calasso
-
+- [The Greeks and the Irrational](https://www.amazon.co.uk/Greeks-Irrational-R-Dodds/dp/1684224241) by E R Dodds
 ## Stuff
 
 I like stuff that makes life a bit easier. If you have a good recommendation, sharing it with me
