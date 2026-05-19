@@ -126,6 +126,7 @@ will make me happy. Below are things that I plan to read at some point:
 
 - [The Great Eskimo Vocabulary Hoax](https://app.thestorygraph.com/books/743bd1c1-e0f7-48b6-860f-4d11351876da) by Geoffrey K. Pullum
 - [The Periodic Table](https://www.amazon.co.uk/Periodic-Table-Penguin-Modern-Classics/dp/0141185147) by Primo Levi
+- [The Concise Book of Trigger Points](https://www.amazon.co.uk/Concise-Book-Trigger-Points/dp/1905367511) by Simeon Niel-Asher
 
 ## Stuff
 
