@@ -102,7 +102,7 @@ will make me happy. Below are things that I plan to read at some point:
 - [Deconstruction: A Reader](https://amzn.eu/d/0iv5iuQy) by Martin McQuillan
 - [The Goodness Paradox:](https://amzn.eu/d/0hI5cIi0) by Richard Wrangham
 - [Bowling Alone: The Collapse and Revival of American Community](https://amzn.eu/d/04PQTxAO) by Robert D. Putnam
-
+- [Against Identity](https://www.waterstones.com/book/against-identity/alexander-douglas/9780241648216) by Alexander Douglas
 <!--Rec by Martin Fowler-->
 - [The Power Broker](https://www.amazon.co.uk/Power-Broker-Robert-Moses-Fall/dp/1847923658) by Robert A Caro
 <!--Rec by Perplexity after reading Leo Tolstoy's What is Art -->
