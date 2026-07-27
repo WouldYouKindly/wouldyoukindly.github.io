@@ -1,4 +1,4 @@
-# Notes on How to Win Friends and Influence People
+ # Notes on How to Win Friends and Influence People
 
 ## Principle 1, never criticise
 
@@ -33,6 +33,15 @@ I need to make girls want to go on a date with me.
 - Profile should make them want me
 - When we match, exchange 1-2 messages, then suggest a place, but mention that if they want to continue chatting that's cool too
 - Thus I should have 3-4 nice places that I want to visit, or, ideally, have already vetted myself
+
+## 4, Become interested in people
+
+I started keeping a journal of basic facts, and observations about my friends.
+
+## 5, Smile
+
+- Act happy when I meet my friends. Show them that they matter to me, and I'm glad to see them
+- I need to interact with people more on a daily basis. What are my options?
 
 ## Random Thoughts
 
