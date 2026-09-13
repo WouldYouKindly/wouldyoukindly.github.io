@@ -118,6 +118,7 @@ will make me happy. Below are things that I plan to read at some point:
 <!--Rec by thelastpsychiatrist-->
 - [Enemies of Promise](https://amzn.eu/d/07YFCat0) by Cyril Connolly
 - [Trading Up: Why Consumers Want New Luxury Goods](https://amzn.eu/d/05dJXfZt) by Michael J. Silverstein
+- [The New Drawing on the Right Side of the Brain](https://www.amazon.co.uk/New-Drawing-Right-Side-Brain/dp/0007116454) by Betty Edwards
 
 <!-- Rec by TRIH -->
 - [The Marriage of Cadmus and Harmony](https://www.waterstones.com/book/9780241399200) by Roberto Calasso
